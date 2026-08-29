@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0219-contains-duplicate-ii) |
 | [0867-transpose-matrix](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu29441/PST-JAVA-week3/tree/master/1480-running-sum-of-1d-array) |
 | [2418-sort-the-people](https://github.com/vtu29441/PST-JAVA-week3/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu29441/PST-JAVA-week3/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
