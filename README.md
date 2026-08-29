@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0219-contains-duplicate-ii) |
 | [0867-transpose-matrix](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0867-transpose-matrix) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/PST-JAVA-week3/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
